@@ -48,9 +48,7 @@ public class HelloYou{
 }
 
         a. ¡Hola amigo!
-        b. Este código contiene un error.
-        c. "¡Hola amigo!"
-
+        
 
 5. ¿Qué le falta a este programa en Java? (Valor 1 punto)
 
@@ -60,9 +58,7 @@ public class HechosLenguaje{
   
 }
 
-          a. Las llaves que marcan el alcance de la clase.
-          b. La línea para compilar código: javac HechosLenguaje.java
-          c. Un comentario de una sola línea.
+          
           d. El método main().
 
 
