@@ -97,7 +97,10 @@ public class LasEscondidas {
   public static void main(String[] args) {
   
    System.out.println("Juguemos a las escondidas.");
-    
+   System.out.println("Tres...");
+   System.out.println("Dos...");
+   System.out.println("Uno...");
+   System.out.println("!Listo o no, aqui voy!")
   }
   
 }
