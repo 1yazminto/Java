@@ -79,14 +79,13 @@ public class HolaMundo{
 }
 
           a. HolaMundo.java
-          b. No hay restricciones en el nombre del archivo en Java.
-          c. HolaMundo.class
-
+          
 7. Completa la clase HolaTu del programa HolaTu.java, para que imprima “¡Hola
 Mi_Nombre!” donde “Mi_Nombre” sea tú nombre. (Valor 2 punto)
 
         public class HolaTu {
           public static void main(String[] args) {
+          System.out.printIn("¡Hola Mi_Nombre
           }
           }
 
