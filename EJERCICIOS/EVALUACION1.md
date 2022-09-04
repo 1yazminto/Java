@@ -32,7 +32,7 @@ public class LanguagesFacts{
   
 }
 
-        a. Cierto
+        
         b. Falso
 
 4. ¿Qué imprimirá el siguiente código en la pantalla? (Valor 1 punto)
