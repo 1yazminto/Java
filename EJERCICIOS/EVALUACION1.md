@@ -81,7 +81,7 @@ Mi_Nombre!” donde “Mi_Nombre” sea tú nombre. (Valor 2 punto)
 
         public class HolaTu {
           public static void main(String[] args) {
-          System.out.printIn("¡Hola Mi_Nombre
+          System.out.printIn("¡Hola yazmin!")
           }
           }
 
