@@ -10,7 +10,7 @@ clara, según sea el caso.
 1. Java es un lenguaje compilable, lo que significa que el código que escribimos es
 traducido a un lenguaje que la computadora entiende. (Valor 1 punto)
 
-        a. Falso
+        
         b. Cierto
 
 2. En Java, ¿cuál es el propósito de escribir comentarios en el código? (Valor 1 punto)
